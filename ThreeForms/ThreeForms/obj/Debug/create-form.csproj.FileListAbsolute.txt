@@ -1,0 +1,13 @@
+E:\1_Documents\Разработка приложений\create-form\create-form\obj\Debug\create-form.csproj.AssemblyReference.cache
+E:\1_Documents\Разработка приложений\create-form\create-form\obj\Debug\create_form.MainForm.resources
+E:\1_Documents\Разработка приложений\create-form\create-form\obj\Debug\create_form.Properties.Resources.resources
+E:\1_Documents\Разработка приложений\create-form\create-form\obj\Debug\create-form.csproj.GenerateResource.cache
+E:\1_Documents\Разработка приложений\create-form\create-form\obj\Debug\create-form.csproj.CoreCompileInputs.cache
+E:\1_Documents\Разработка приложений\create-form\create-form\bin\Debug\create-form.exe.config
+E:\1_Documents\Разработка приложений\create-form\create-form\bin\Debug\create-form.exe
+E:\1_Documents\Разработка приложений\create-form\create-form\bin\Debug\create-form.pdb
+E:\1_Documents\Разработка приложений\create-form\create-form\obj\Debug\create-form.exe
+E:\1_Documents\Разработка приложений\create-form\create-form\obj\Debug\create-form.pdb
+E:\1_Documents\Разработка приложений\create-form\create-form\obj\Debug\create_form.FormNotepad.resources
+E:\1_Documents\Разработка приложений\create-form\create-form\obj\Debug\create_form.FormTemperature.resources
+E:\1_Documents\Разработка приложений\create-form\create-form\obj\Debug\create_form.FormImage.resources

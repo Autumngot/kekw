@@ -1,0 +1,13 @@
+E:\Download\ThreeForms\ThreeForms\obj\Debug\ThreeForms.csproj.AssemblyReference.cache
+E:\Download\ThreeForms\ThreeForms\obj\Debug\create_form.FormImage.resources
+E:\Download\ThreeForms\ThreeForms\obj\Debug\create_form.FormNotepad.resources
+E:\Download\ThreeForms\ThreeForms\obj\Debug\create_form.FormTemperature.resources
+E:\Download\ThreeForms\ThreeForms\obj\Debug\create_form.ThreeForms.resources
+E:\Download\ThreeForms\ThreeForms\obj\Debug\create_form.Properties.Resources.resources
+E:\Download\ThreeForms\ThreeForms\obj\Debug\ThreeForms.csproj.GenerateResource.cache
+E:\Download\ThreeForms\ThreeForms\obj\Debug\ThreeForms.csproj.CoreCompileInputs.cache
+E:\Download\ThreeForms\ThreeForms\obj\Debug\create-form.exe
+E:\Download\ThreeForms\ThreeForms\obj\Debug\create-form.pdb
+E:\Download\ThreeForms\ThreeForms\bin\Debug\create-form.exe.config
+E:\Download\ThreeForms\ThreeForms\bin\Debug\create-form.exe
+E:\Download\ThreeForms\ThreeForms\bin\Debug\create-form.pdb
